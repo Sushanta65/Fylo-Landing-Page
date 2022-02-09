@@ -1,0 +1,12 @@
+/* Navbar Item Design */
+.nav-item-border{
+    width: 0%;
+    height: 2px !important;
+    transition: all .7s;
+    margin: auto;
+}
+.nav-item:hover .nav-item-border{ /*Hover effect*/
+    width: 100%;
+    background: #6b9bff;
+    opacity: 1;
+}
