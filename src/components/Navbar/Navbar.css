@@ -1,7 +1,7 @@
 /* Navbar Item Design */
 .nav-item-border{
     width: 0%;
-    height: 2px !important;
+    height: 4px !important;
     transition: all .7s;
     margin: auto;
 }
