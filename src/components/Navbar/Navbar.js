@@ -10,7 +10,7 @@ const Navbar = () => {
         <div className="px-5 sm:px-10">
           <nav className="flex justify-between items-center py-6">
             <div className="header-logo w-1/4 md:w-36">
-              <img src={Logo} alt="Fylo" />
+              <a href="#"><img src={Logo} alt="Fylo" /></a>
             </div>
             <div className="header-menu">
               <ul className="flex">

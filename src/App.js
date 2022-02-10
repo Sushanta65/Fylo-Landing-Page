@@ -1,5 +1,6 @@
 /* eslint-disable jsx-a11y/anchor-is-valid */
 import "./App.css";
+import Footer from "./components/Footer/Footer";
 import GetAccessSection from "./components/GetAccessSection/GetAccessSection";
 import HeroSection from "./components/HeroSection/HeroSection";
 import Navbar from './components/Navbar/Navbar';
@@ -11,6 +12,7 @@ function App() {
      <HeroSection/>
      <WhereYouAreSection/>
      <GetAccessSection/>
+     <Footer/>
     </div>
   )
 }

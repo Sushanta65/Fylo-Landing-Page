@@ -30,7 +30,7 @@ const WhereYouAreSection = () => {
                   href="#"
                 >
                   See how Fylo works{" "}
-                  <i className="fas fa-arrow-right text-white bg-green-500 px-1 pt-1 rounded-full mx-1 text-sm"></i>
+                  <i className="fas fa-arrow-right text-white bg-green-500 px-1 py-1 rounded-full mx-1 text-sm"></i>
                 </a>
                 {/* =====Review Box===== */}
                 <div className="review-box shadow-2xl px-5 py-5 my-8 lg:w-3/4 rounded-lg">
